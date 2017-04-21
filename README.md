@@ -6,3 +6,6 @@ To Search a particular text in a webpage and alert by sending a mail
 3. Modify the Time as in what interval you want to check the site for the text.
 4. Modify the SMTP settings with your mail address and the receiving mail address.
 
+Run the script by the following command:
+
+python pybotSearchSiteandAlert.py
