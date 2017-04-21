@@ -1,4 +1,5 @@
 # python-Search-Text
+
 To Search a particular text in a webpage and alert by sending a mail
 
 1. Modify the URL of the page that you want to search.
@@ -7,5 +8,6 @@ To Search a particular text in a webpage and alert by sending a mail
 4. Modify the SMTP settings with your mail address and the receiving mail address.
 
 Run the script by the following command:
-
+```
 python pybotSearchSiteandAlert.py
+```
